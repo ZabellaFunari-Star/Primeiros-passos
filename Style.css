@@ -1,0 +1,14 @@
+head{
+    background-color:rgb(37, 37, 71);
+    color:hsl(348, 83%, 47%);
+    text-align: center;
+    max-height: 800px;
+    margin: 0 auto;
+}
+main{
+     background-color:darkred;
+     color:hsl(348, 83%, 47%);
+     text-align: center;
+    max-height: 800px;
+    margin: 0 auto;
+}
